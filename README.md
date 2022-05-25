@@ -1,2 +1,0 @@
-# code
-print)lf,kd
